@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gitCommands
 gitCommands es un proyecto creado en el curso de Git y Github de Platzi. En el, describo los comandos más usados y su uso.
 
@@ -43,3 +44,7 @@ Para contribuir debes:
 1. Realizar los cambios que requieras y hacer el commit
 1. Hacer un push a tu `origin master` 
 1. Realizar un pull request desde GitHub al repositorio principal.
+=======
+# Git_-_Py
+Testing and Shit
+>>>>>>> 6c666f64426ad59eb4c7a90b1b01ddd37bbf1264
